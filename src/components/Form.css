@@ -4,13 +4,13 @@
 }
 
 .Form input, .Form button {
-    min-width: 500px;
-    max-width: 50vh;
     font-size: 20px;
     box-shadow: 3px 3px 3px black; 
     margin-top: 15px;
     margin-bottom: 15px;
     border-radius: 10px 0px;
+    min-width: 350px;
+    max-width: 100%;
 }
 
 .Form input {
