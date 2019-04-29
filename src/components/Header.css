@@ -5,6 +5,6 @@
     margin: 20px;
     border-radius: 10px 0px;
     box-shadow: 3px 3px 3px black;
-    min-width: 500px;
-    max-width: 50vh;
+    min-width: 350px;
+    max-width: 100%;
 }
