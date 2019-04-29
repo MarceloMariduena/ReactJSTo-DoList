@@ -2,7 +2,9 @@
   "name": "reactjs-to-do-list",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://MarceloMariduena.github.io/ReactJSTo-DoList",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.0"

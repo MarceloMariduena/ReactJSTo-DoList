@@ -1,0 +1,9 @@
+.Tasks li {
+    list-style: none;
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 10px 0px;
+    margin: 3px;
+    background-color: white;
+    min-width: 500px;
+    max-width: 50vh;}

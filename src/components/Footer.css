@@ -1,0 +1,19 @@
+.Footer{
+    padding: 40px;
+    margin: 20px;
+    width: 100%;
+    color: white;
+    font-size: 19px;
+}
+
+.Footer a{
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px 0px;
+    transition: 0.5s;
+}
+
+.Footer a:hover {
+    background-color: white;
+    transition: 0.5s;
+}

@@ -1,0 +1,22 @@
+.Form {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.Form input, .Form button {
+    min-width: 500px;
+    max-width: 50vh;
+    font-size: 20px;
+    box-shadow: 3px 3px 3px black; 
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px 0px;
+}
+
+.Form input {
+    padding: 25px 10px 25px 10px;
+}
+
+.Form label {
+    align-content: left;
+}
